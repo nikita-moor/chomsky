@@ -1,6 +1,6 @@
 # Chomsky: New York Times masthead, reimagined as a full font
 
-[Download]()
+[Download](https://github.com/nikita-moor/chomsky/releases/download/2020-06-11/Chomsky.otf)
 
 Original author: [Fredrick Brennan](https://github.com/ctrlcctrlv) (@ctrlcctrlv)
 
