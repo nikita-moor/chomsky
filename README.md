@@ -1,3 +1,7 @@
+```diff
+- All changes made in this fork have been returned to the upstream.
+```
+
 # Chomsky font
 
 * [Download](https://github.com/nikita-moor/chomsky/releases/download/2020-06-11/Chomsky.otf)
